@@ -9,7 +9,15 @@
 <script>
 export default {
   name: 'App',
-  data(){}
+  data(){},
+  methods: {
+    zhagnyuetest(){
+      
+    },
+    wugtest(){
+      console.log("武哥的测试！")
+    }
+  },
 }
 </script>
 
