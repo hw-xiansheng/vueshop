@@ -17,6 +17,7 @@ export default {
     },
     wugtest(){
       console.log("武哥的测试！")
+      console.log("武哥的测试2！！！")
     }
   },
 }
