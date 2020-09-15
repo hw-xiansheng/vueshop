@@ -14,6 +14,7 @@ export default {
     zhagnyuetest(){
         console.log("张悦的测试！")
         console.log("张悦的测试2！")
+        console.log("张悦的测试3！")
     },
     wugtest(){
       console.log("武哥的测试！")
