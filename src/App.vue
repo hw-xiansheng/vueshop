@@ -11,14 +11,8 @@ export default {
   name: 'App',
   data(){},
   methods: {
-    zhagnyuetest(){
-        console.log("张悦的测试！")
-        console.log("张悦的测试2！")
-    },
-    wugtest(){
-      console.log("武哥的测试！")
-      console.log("武哥的测试2！！！")
-      console.log("武哥的测试3！！");
+    hewu(){
+      console.log("武哥的修改1");
     }
   },
 }
