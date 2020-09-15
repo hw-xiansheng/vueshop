@@ -12,10 +12,12 @@ export default {
   data(){},
   methods: {
     hewu(){
-      console.log("武哥的修改1");
+      console.log('武哥的测试000');
+      // console.log("武哥的修改1");
       console.log("武哥的修改2");
     },
     zhangyue(){
+      console.log('张悦的修改000，来自武哥的变化');
       console.log("张悦的修改1")
       console.log('张悦的修改2')
     }
