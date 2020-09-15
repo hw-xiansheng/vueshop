@@ -16,7 +16,7 @@ export default {
     },
     zhangyue(){
       console.log("张悦的修改1")
-      console.log('张悦的修改2')
+      console.log('张悦的修改3')
     }
   },
 }
