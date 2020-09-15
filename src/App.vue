@@ -12,7 +12,7 @@ export default {
   data(){},
   methods: {
     zhagnyuetest(){
-      
+        console.log("张悦的测试！")
     }
   },
 }
