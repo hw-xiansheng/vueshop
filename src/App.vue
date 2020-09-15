@@ -13,6 +13,9 @@ export default {
   methods: {
     hewu(){
       console.log("武哥的修改1");
+    },
+    zhangyue(){
+      console.log("张悦的修改1")
     }
   },
 }
