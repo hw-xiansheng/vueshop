@@ -12,7 +12,14 @@ export default {
   data(){},
   methods: {
     zhagnyuetest(){
+<<<<<<< HEAD
         console.log("张悦的测试！")
+=======
+      
+    },
+    wugtest(){
+      console.log("武哥的测试！")
+>>>>>>> b7ff0dd54ccd0be9a00b13cc2bfe0aa5c225f757
     }
   },
 }
