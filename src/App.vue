@@ -12,7 +12,11 @@ export default {
   data(){},
   methods: {
     hewu(){
+<<<<<<< HEAD
       console.log('武哥的测试000===武哥修改了☆☆☆');
+=======
+      console.log('武哥的测试000===张悦修改了！！');
+>>>>>>> 7ed6972fb2c97ff74d98e4db2ed6fdc78a019899
       // console.log("武哥的修改1");
       console.log("武哥的修改2");
       console.log("呵呵呵大！！！！武哥发送了好多的变化啊啊啊啊啊！")
