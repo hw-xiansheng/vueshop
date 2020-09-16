@@ -16,6 +16,7 @@ export default {
       // console.log("武哥的修改1");
       console.log("武哥的修改2");
       console.log("武哥发送了好多的变化啊啊啊啊啊！")
+      console.log("武哥的演示333")
     },
     zhangyue(){
       console.log('张悦的修改000，来自武哥的变化');
