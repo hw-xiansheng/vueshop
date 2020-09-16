@@ -15,7 +15,7 @@ export default {
       console.log('武哥的测试000');
       // console.log("武哥的修改1");
       console.log("武哥的修改2");
-      console.log("武哥发送了好多的变化啊啊啊啊啊！")
+      console.log("武哥发送！！！改过的哦哦啊！")
       console.log("武哥的演示333")
     },
     zhangyue(){
